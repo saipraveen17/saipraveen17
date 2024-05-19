@@ -1,11 +1,11 @@
 <h1 align="center">👋 HELLO WORLD, I'm Praveen Katikireddy</h1>
-<h3 align="center">Backend dev with 1 year under my belt</h3>
+<h3 align="center">Backend developer with 1 year under my belt</h3>
 <img align="right" alt="codingGif" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">.
 - 🔭 I’m currently working at Gaian Solutions
 
 - 🌱 I’m currently learning *Quarkus, Reactive Programming*
 
-- 💬 Ask me about *JAVA, Spring boot*
+- 💬 Ask me about *JAVA, Spring boot, problem solving*
 
 - 📫 How to reach me *praveenk9417@gmail.com*
 
